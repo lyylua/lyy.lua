@@ -1,0 +1,66 @@
+{
+    "version": 1,
+    "updated": "2026-11-22",
+    "keys": {
+        "LYRAX-OWNER-0001": {
+            "hwid": "",
+            "expire": "2099-12-20",
+            "content": "@Lorev6",
+            "note": "1号卡 永久 内容 @Lorev6"
+        },
+        "LYRAX-6PYC-DYBK": {
+            "hwid": "",
+            "expire": "2028-03-23",
+            "content": "tier=std;seat=3;id=9064",
+            "note": "随机卡 未绑定"
+        },
+        "LYRAX-OXTZ-7Q74": {
+            "hwid": "",
+            "expire": "2027-10-17",
+            "content": "tier=plus;seat=1;id=7409",
+            "note": "随机卡 未绑定"
+        },
+        "LYRAX-7X1O-9RO5": {
+            "hwid": "",
+            "expire": "2027-08-06",
+            "content": "tier=pro;seat=2;id=5300",
+            "note": "随机卡 未绑定"
+        },
+        "LYRAX-DG2W-3LL9": {
+            "hwid": "",
+            "expire": "2027-11-01",
+            "content": "tier=std;seat=2;id=4020",
+            "note": "随机卡 未绑定"
+        },
+        "LYRAX-8I1N-2FVU": {
+            "hwid": "",
+            "expire": "2028-02-21",
+            "content": "tier=vip;seat=3;id=8510",
+            "note": "随机卡 未绑定"
+        },
+        "LYRAX-XX0B-ZN1K": {
+            "hwid": "",
+            "expire": "2027-05-23",
+            "content": "tier=plus;seat=2;id=2560",
+            "note": "随机卡 未绑定"
+        },
+        "LYRAX-SHYL-5SN3": {
+            "hwid": "",
+            "expire": "2028-12-19",
+            "content": "tier=vip;seat=1;id=7594",
+            "note": "随机卡 未绑定"
+        },
+        "LYRAX-JLI4-UFH1": {
+            "hwid": "",
+            "expire": "2027-10-15",
+            "content": "tier=basic;seat=1;id=5732",
+            "note": "随机卡 未绑定"
+        },
+        "LYRAX-FHYP-N3NW": {
+            "hwid": "",
+            "expire": "2028-10-30",
+            "content": "tier=pro;seat=1;id=7676",
+            "note": "随机卡 未绑定"
+        }
+    }
+}
